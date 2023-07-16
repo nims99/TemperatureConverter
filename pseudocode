@@ -1,0 +1,15 @@
+Prompt the user to enter a temperature in Celsius
+Read the input temperature in Celsius
+
+Convert the Celsius temperature to Fahrenheit using the formula:
+    fahrenheit = (celsius * 9 / 5) + 32
+
+Display the converted temperature in Fahrenheit
+
+Prompt the user to enter a temperature in Fahrenheit
+Read the input temperature in Fahrenheit
+
+Convert the Fahrenheit temperature to Celsius using the formula:
+    celsius = (fahrenheit - 32) * 5 / 9
+
+Display the converted temperature in Celsius
